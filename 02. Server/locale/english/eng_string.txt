@@ -1,0 +1,23 @@
+"The war between kingdoms just start,";
+"The war between kingdoms just start,";
+
+"if you want to partecipate at  the war talk to the Archer Guardian.";
+"if you want to partecipate at  the war talk to the Archer Guardian.";
+
+"The war between kingdoms is end,";
+"The war between kingdoms is end,";
+
+"all the partecipants will be teleported to his kingdom city.";
+"all the partecipants will be teleported to his kingdom city.";
+
+"This item can't be used here.";
+"This item can't be used here.";
+
+"%s win the war,";
+"%s win the war,";
+
+"%s's citizens can withdraw his reward from Mall deposit.";
+"%s's citizens can withdraw his reward from Mall deposit.";
+
+"The war between kingdoms end without any winner,";
+"The war between kingdoms end without any winner,";

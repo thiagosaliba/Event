@@ -1,0 +1,1 @@
+KW_TIME	%d min(s) left

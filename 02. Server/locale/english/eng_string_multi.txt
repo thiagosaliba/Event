@@ -1,0 +1,71 @@
+"[EN] The war between kingdoms just start,";
+"The war between kingdoms just start,";
+
+"[EN] if you want to partecipate at  the war talk to the Archer Guardian.";
+"if you want to partecipate at  the war talk to the Archer Guardian.";
+
+"[EN] The war between kingdoms is end,";
+"The war between kingdoms is end,";
+
+"[EN] all the partecipants will be teleported to his kingdom city.";
+"all the partecipants will be teleported to his kingdom city.";
+
+"[EN] This item can't be used here.";
+"This item can't be used here.";
+
+"[EN] %s win the war,";
+"%s win the war,";
+
+"[EN] %s's citizens can withdraw his reward from Mall deposit.";
+"%s's citizens can withdraw his reward from Mall deposit.";
+
+"[EN] The war between kingdoms end without any winner,";
+"The war between kingdoms end without any winner,";
+
+"[DE] The war between kingdoms just start,";
+"The war between kingdoms just start,";
+
+"[DE] if you want to partecipate at  the war talk to the Archer Guardian.";
+"if you want to partecipate at  the war talk to the Archer Guardian.";
+
+"[DE] The war between kingdoms is end,";
+"The war between kingdoms is end,";
+
+"[DE] all the partecipants will be teleported to his kingdom city.";
+"all the partecipants will be teleported to his kingdom city.";
+
+"[DE] This item can't be used here.";
+"This item can't be used here.";
+
+"[DE] %s win the war,";
+"%s win the war,";
+
+"[DE] %s's citizens can withdraw his reward from Mall deposit.";
+"%s's citizens can withdraw his reward from Mall deposit.";
+
+"[DE] The war between kingdoms end without any winner,";
+"The war between kingdoms end without any winner,";
+
+"[FR] The war between kingdoms just start,";
+"The war between kingdoms just start,";
+
+"[FR] if you want to partecipate at  the war talk to the Archer Guardian.";
+"if you want to partecipate at  the war talk to the Archer Guardian.";
+
+"[FR] The war between kingdoms is end,";
+"The war between kingdoms is end,";
+
+"[FR] all the partecipants will be teleported to his kingdom city.";
+"all the partecipants will be teleported to his kingdom city.";
+
+"[FR] This item can't be used here.";
+"This item can't be used here.";
+
+"[FR] %s win the war,";
+"%s win the war,";
+
+"[FR] %s's citizens can withdraw his reward from Mall deposit.";
+"%s's citizens can withdraw his reward from Mall deposit.";
+
+"[FR] The war between kingdoms end without any winner,";
+"The war between kingdoms end without any winner,";
